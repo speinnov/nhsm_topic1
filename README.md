@@ -61,3 +61,6 @@ M. HACHECHE
 Managing the stability of vulnerable persons, multi sensors microcontrollers ESP32 LoRa
 Accuracy of IoT electronic sensors and the impact of errors on measurement quality
 https://github.com/Ishaq-ML/nhsnn_27_topic_09
+
+# exemple de fichier et mise a jour des issues
+
