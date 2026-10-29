@@ -63,4 +63,4 @@ Accuracy of IoT electronic sensors and the impact of errors on measurement quali
 https://github.com/Ishaq-ML/nhsnn_27_topic_09
 
 # exemple de fichier et mise a jour des issues
-
+update of the issue #4
