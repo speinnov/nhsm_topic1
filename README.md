@@ -1,4 +1,4 @@
-# spectrum-innovation
+# SPECTRUMM INNOVATION
 # National hight school of mathematics and cryptology  
 
 ## nhsm_topic 01
